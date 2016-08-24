@@ -1,13 +1,13 @@
 <?php
   # Variables used through the site
-  $siteName = "Arlington Visual Budget";
-  $siteURL = "arlingtonvisualbudget.org";
-  $municipalURL = "http://town.arlington.ma.us";
-  $feedbackEmail = "arlington-internal@goinvo.com";
-  $shortName = "Arlington";
-  $longName = "Town of Arlington";
-  $state = "Massachusetts";
-  $stateAbbreviation = "MA";
+  $siteName = "Taida SA Visual Budget";
+  $siteURL = "zekt.me";
+  $municipalURL = "http://ntustudents.org";
+  $feedbackEmail = "Taida@TianLung.taipei";
+  $shortName = "NTUSA";
+  $longName = "Taida Xue Sheng Hui";
+  $state = "Taida";
+  $stateAbbreviation = "TD";
   $gaKey = "UA-10273473-12";
 
   # Variables for update.php
